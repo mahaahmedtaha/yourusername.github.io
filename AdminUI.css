@@ -1,0 +1,182 @@
+.Container{
+	background-color: white;
+	width: 1300px;
+	margin: 0 auto;
+
+}
+.Nav{
+	background-color: #333333;
+	width:1300px;
+	height: 60px;
+}
+.Nav ul li {
+	display: inline-block;
+	margin: 5px 8px;
+	float: right;
+	font-size: 25px;
+	padding-top: 10px;
+}
+.Nav ul li a {
+	color: white;
+	text-decoration: none;
+	/*float: right;*/
+	margin-top: 10px;
+}
+.Nav ul li a:hover {
+	color: #007a99;
+	
+}
+.logoo{
+	margin-top: -7px;
+	
+	width: 50px;
+	margin-right:600px; 
+}
+input{
+
+}
+.home{
+	background-color: #f2f2f2;
+	width: 75%;
+	height: 1000px;
+	float: right;
+	margin-top: 7px;
+}
+.home h1{
+	font-size: 30px;
+	text-align: center;
+	padding-top: 5px;
+	color: #002b80;
+}
+.home ul{
+	background-color: #007a99;
+	margin-top:92px; 
+	border-radius: 3px;
+}
+.home ul li{
+	display: inline-block;
+	margin: 5px 10px;
+}
+.home div{
+	width: 220px;
+	height: 175px;
+	background-color: white;
+	border-radius: 3px;
+}
+.home p{
+	padding-top: 7px;
+	padding-left: 60px;
+	color: #007a99;
+}
+.home img{
+	padding-top: 20px;
+	padding-left: 80px;
+}
+.sider{
+	background-color: #007a99;
+	width:300px;
+	height: 800px;
+	margin-top: 14px; 
+}
+.em{
+	height: 10px;
+	width: 80%;
+	background-color: #007a99;
+}
+.TopList{
+	background-color: white;
+	width: 80%;
+	margin-left:40px;
+	height: 60px;
+	border-radius: 3px;
+	position: relative;
+}
+.TopList h3{
+	padding-top:10px;
+	text-align: center;
+	font-size: 23px;
+}
+.TopList a{
+
+	padding-left: 45px;
+}
+.MidList{
+	background-color: white;
+	width: 80%;
+	margin-left:40px;
+	margin-top: 20px;
+	height: 175px;
+	border-radius: 3px;
+}
+.MidList,.BottomList h3{
+	padding-top:10px;
+	text-align: center;
+	font-size: 23px;
+}
+.MidList ul li{
+	margin: 0px 20px;
+	text-align: center;
+	font-size: 18px;
+	padding-top: 10px;
+}
+.MidList ul li a{
+	text-decoration: none;
+	color: #007a99;
+}
+.MidList .bulding{
+	bottom:8px; 
+	left:10px;
+	width:20px; 
+	height:20px;
+	margin-right: 5px;
+} 
+.BottomList{
+	background-color: white;
+	width: 80%;
+	margin-left:40px;
+	margin-top: 20px;
+	height: 300px;
+	border-radius: 3px;
+}
+.BottomList ul li{
+	margin: 5px 20px;
+	text-align: center;
+	font-size: 18px;
+	padding-top: 10px;
+}
+.BottomList ul li a{
+	text-decoration: none;
+	color: #007a99;
+}
+.BottomList .bulding{
+	float: left;
+	width:20px; 
+	height:20px;
+	margin-left: 20px;
+}
+.BottomList h2{
+	padding-top:10px;
+	text-align: center;
+	font-size: 26px;
+}
+.contain{
+	width: 1300px;
+	height: 1000px;
+	background-color: #cce6ff ;
+	margin: 0 auto;
+}
+.Message{
+	width: 800px;
+	height: 300px;
+	background-color: white;
+	position: absolute;
+	margin: 100px 250px ;
+	/*box-shadow: currentColor;*/
+	box-shadow: 10px 10px 5px  #99ceff;
+}
+.Message p{
+	font-size: 40px;
+	color: #007a99;
+	text-align: center;
+	padding: 50px 10px;
+}
